@@ -20,4 +20,4 @@ python3 main.py 'any text you want analyzed'
 dist/main/main 'any text you want analyzed'
 ```
 
-Note: This project is satirical in nature.
+Note: This tool is satirical in nature. You can use it as a benchmark to gauge the effectiveness of your genuine AI-detection algorithms against the whims of chance.
